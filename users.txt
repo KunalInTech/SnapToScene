@@ -1,0 +1,6 @@
+{"name": "Admin", "email": "admin@a", "password": "scrypt:32768:8:1$HquqOiqcDawrRfFB$7346dff64d4b22c2d6d0b7939dc6c24d7b3f035dd0514d695ef9b4187e59a29b72f5b5257fe33f82d0817c91f64779cdf782c5e41e788b05d63c034c6261593a"}
+{"name": "Admin", "email": "admin@a", "password": "scrypt:32768:8:1$lhhE9Nc9IYAejOjQ$82da5eee67047212882675c5cfa6953c89ca9168ad62c9e5c6b57872a1687b3272e2cfeca28f99bd574d4f665433b775045a529e2eef138a6bf9ed1a5c3bf3fa"}
+{"name": "aman", "email": "abcd@gmail.com", "password": "pbkdf2:sha256:1000000$TXkjC6LLmiCnLS7N$67eb6d838d59b156c7f51b0f57f4f444cc99957477bf897a5fe3169b5355ddac"}
+{"name": "Admin", "email": "admin@a", "password": "scrypt:32768:8:1$u0iwDNXFtswF8ciG$8056fe70e6ea8470a27019018bc4ad107960f6e23f1a8b49c7e008208bde33d87e1d9f77f58b35c3df5ebec16eb16f48f6c8c9ecceaacdcbdb4c2a1418acf6fa"}
+{"name": "Kunal", "email": "kunal@gmail.com", "password": "pbkdf2:sha256:1000000$fWSlkWWCoRqclCRq$379e6c0d390eb9da1e3cfffcf9967afddfdbfcd777c358a315372b5a151e0ead"}
+{"name": "manav", "email": "manav@gmail.com", "password": "pbkdf2:sha256:1000000$Uv3YUadwbqS8aq2E$25ad2fa15b7f11781eebda406e1bf3e10e7448aafb796a52244f5d7b5d14f003"}
